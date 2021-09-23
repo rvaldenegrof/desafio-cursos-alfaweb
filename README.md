@@ -1,4 +1,6 @@
-# 19-creacion-de-autenticacion-con-vue-router
+# No logo que aparezca el navigation drawer en el login a la primera, debo redmencionar y aparece, para el caso que no tenga cuenta
+r.valdenegrof@gmail.com
+test1234
 
 ## Project setup
 ```
